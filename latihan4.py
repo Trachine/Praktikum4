@@ -1,3 +1,4 @@
+# mengimport uniform dari library random
 from random import uniform
 
 # input nilai variable n
