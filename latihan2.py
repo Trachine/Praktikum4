@@ -1,4 +1,5 @@
-print("Perogram mengurutkan data")#
+# menampilkan karakter
+print("Perogram mengurutkan data")
 # input nilai variable
 a = input("Bilangan ke-1 : ")
 b = input("Bilangan ke-2 : ")
