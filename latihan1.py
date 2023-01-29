@@ -1,4 +1,4 @@
-# input nilai variable
+# input nilai variable12
 a = input("Bilangan ke-1 :")
 b = input("Bilangan ke-2 :")
 
